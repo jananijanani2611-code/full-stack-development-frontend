@@ -1,0 +1,34 @@
+[
+{
+"id":1,
+"name":"Ramesh",
+"department":"CSE",
+"staffid":"ST101",
+"designation":"Professor",
+"experience":"10 years"
+},
+{
+"id":2,
+"name":"Lakshmi",
+"department":"IT",
+"staffid":"ST102",
+"designation":"Assistant Professor",
+"experience":"6 years"
+},
+{
+"id":3,
+"name":"Karthik",
+"department":"ECE",
+"staffid":"ST103",
+"designation":"Professor",
+"experience":"12 years"
+},
+{
+"id":4,
+"name":"Divya",
+"department":"CSE",
+"staffid":"ST104",
+"designation":"Lecturer",
+"experience":"4 years"
+}
+]

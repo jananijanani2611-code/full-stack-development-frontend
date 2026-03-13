@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to right,#ffecd2,#fcb69f,#eac7c8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    width:20%;
+    padding:10px;
+    margin:10px 0;
+    border:2px solid #0ae915;
+    border-radius:10px;
+    font-size:16px;
+    justify-content: center;
+
+}
+
+
+img{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    border:3px solid #2fff0a;
+    margin-bottom:15px;
+}

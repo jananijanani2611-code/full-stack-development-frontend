@@ -1,0 +1,35 @@
+[
+        {
+            "id":1,
+            "name":"janani",
+            "course":"cs&bs",
+            "duration":"2025-2028",
+            "rollNo":"25cbl01",
+            "regNo":"710724244301"
+        },
+        {
+            "id":2,
+            "name":"harini",
+            "course":"cse",
+            "duration":"2025-2028",
+            "rollNo":"25cbl03",
+            "regNo":"710724244303"
+        },
+        {
+            "id":3,
+            "name":"praveena",
+            "course":"cse",
+            "duration":"2025-2028",
+            "rollNo":"25cbl04",
+            "regNo":"710724244304"
+        },
+        {
+            "id":4,
+            "name":"diviya",
+            "course":"cse",
+            "duration":"2025-2028",
+            "rollNo":"25cbl05",
+            "regNo":"710724244305"
+        }
+    
+    ]
